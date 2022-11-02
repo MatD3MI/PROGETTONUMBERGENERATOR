@@ -1,0 +1,10 @@
+C:\Users\demic\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\demic\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\demic\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\demic\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\socketnumberserver.csproj.AssemblyReference.cache
+C:\Users\demic\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\demic\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\demic\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\socketnumberserver.csproj.GenerateResource.cache
+C:\Users\demic\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\socketnumberserver.csproj.CoreCompileInputs.cache
+C:\Users\demic\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\demic\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

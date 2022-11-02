@@ -1,0 +1,10 @@
+C:\Users\demic\source\repos\socketnumber\socketnumber\bin\Debug\socketnumber.exe.config
+C:\Users\demic\source\repos\socketnumber\socketnumber\bin\Debug\socketnumber.exe
+C:\Users\demic\source\repos\socketnumber\socketnumber\bin\Debug\socketnumber.pdb
+C:\Users\demic\source\repos\socketnumber\socketnumber\obj\Debug\socketnumber.csproj.AssemblyReference.cache
+C:\Users\demic\source\repos\socketnumber\socketnumber\obj\Debug\socketnumber.Form1.resources
+C:\Users\demic\source\repos\socketnumber\socketnumber\obj\Debug\socketnumber.Properties.Resources.resources
+C:\Users\demic\source\repos\socketnumber\socketnumber\obj\Debug\socketnumber.csproj.GenerateResource.cache
+C:\Users\demic\source\repos\socketnumber\socketnumber\obj\Debug\socketnumber.csproj.CoreCompileInputs.cache
+C:\Users\demic\source\repos\socketnumber\socketnumber\obj\Debug\socketnumber.exe
+C:\Users\demic\source\repos\socketnumber\socketnumber\obj\Debug\socketnumber.pdb
